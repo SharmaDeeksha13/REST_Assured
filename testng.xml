@@ -7,6 +7,7 @@
     <test name="C:/Users/deeks/Downloads/Maven_project/OctPomSeriesFramework-master/REST_Assured">
         <classes>
             <class name="POMRunner.AmazonExecution"></class>
+            <class name="POMRunner.AmazonExecution"></class>
         </classes>
     </test>
 </suite>
