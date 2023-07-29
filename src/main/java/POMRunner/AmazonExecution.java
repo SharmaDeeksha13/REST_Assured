@@ -37,6 +37,7 @@ public class AmazonExecution {
       File source= tsc.getScreenshotAs(OutputType.FILE);
         File newDestination= new File("C:\\Users\\deeks\\Downloads\\new1.jpg");
         FileUtils.copyFile(source,newDestination);
+        Thread.sleep(3000);
 
     }
 
