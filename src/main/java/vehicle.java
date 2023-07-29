@@ -21,4 +21,8 @@ public class vehicle {
     public void Parent1() {
         System.out.println("parent1 method from vehicle class");
     }
+
+        public void Parent3() {
+            System.out.println("parent1 method from vehicle class");
+    }
 }
